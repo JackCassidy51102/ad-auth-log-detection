@@ -1,0 +1,28 @@
+ACTIVE DIRECTORY AUTHENTICATION ANALYSIS
+==========================================
+Total events analysed : 23
+Failed logons  (4625) : 18
+Successful     (4624) : 4
+Privileged     (4672) : 1
+
+TOP ACCOUNTS BY FAILED LOGON
+------------------------------------------
+  corp.local\bob                 9
+  corp.local\carol               5
+  corp.local\alice               1
+  corp.local\dave                1
+  corp.local\erin                1
+
+TOP SOURCE IPS BY FAILED LOGON
+------------------------------------------
+  10.0.0.66                      8
+  10.0.0.99                      6
+  10.0.0.50                      4
+
+DETECTIONS
+------------------------------------------
+  [CRITICAL] success_after_failures success for corp.local\carol after 5 failures within 10m
+  [HIGH    ] brute_force            9 failed logons (4625) for account corp.local\bob
+  [HIGH    ] brute_force            5 failed logons (4625) for account corp.local\carol
+  [HIGH    ] password_spray         source 10.0.0.99 failed against 6 distinct accounts
+  [INFO    ] privileged_logon       1 privileged logon(s) (4672) for corp.local\svc-admin

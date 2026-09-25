@@ -1,0 +1,5 @@
+# Core detection + parser use only the Python standard library.
+# The following are needed only for the features noted.
+
+python-evtx>=0.7    # only for parsing real Windows Security .evtx files (--evtx)
+pytest>=8.0         # only for running the test suite

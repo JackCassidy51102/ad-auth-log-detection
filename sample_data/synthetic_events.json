@@ -1,0 +1,209 @@
+[
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:00",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.66",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:05",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.66",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:10",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.66",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:15",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.66",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:20",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.66",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:25",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.66",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:30",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.66",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:35",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.66",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:40",
+    "username": "alice",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.99",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:43",
+    "username": "bob",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.99",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:46",
+    "username": "carol",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.99",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:49",
+    "username": "dave",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.99",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:52",
+    "username": "erin",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.99",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:55",
+    "username": "frank",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.99",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:00:58",
+    "username": "carol",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.50",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:01:08",
+    "username": "carol",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.50",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:01:18",
+    "username": "carol",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.50",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-03-10T13:01:28",
+    "username": "carol",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.50",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4624,
+    "timestamp": "2026-03-10T13:01:38",
+    "username": "carol",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.50",
+    "logon_type": 3,
+    "auth_package": "NTLM"
+  },
+  {
+    "event_id": 4672,
+    "timestamp": "2026-03-10T13:01:48",
+    "username": "svc-admin",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.10",
+    "logon_type": 2,
+    "auth_package": "Kerberos"
+  },
+  {
+    "event_id": 4624,
+    "timestamp": "2026-03-10T13:01:53",
+    "username": "alice",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.20",
+    "logon_type": 3,
+    "auth_package": "Kerberos"
+  },
+  {
+    "event_id": 4624,
+    "timestamp": "2026-03-10T13:02:23",
+    "username": "dave",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.20",
+    "logon_type": 3,
+    "auth_package": "Kerberos"
+  },
+  {
+    "event_id": 4624,
+    "timestamp": "2026-03-10T13:02:53",
+    "username": "erin",
+    "domain": "corp.local",
+    "source_ip": "10.0.0.20",
+    "logon_type": 3,
+    "auth_package": "Kerberos"
+  }
+]
